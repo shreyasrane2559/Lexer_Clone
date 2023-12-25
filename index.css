@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+    color:white;
+    
+}
+.navbar{
+    height: 62px;
+    width:100%px;
+    background-color: #070f2a;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+    
+
+}
+.nav-dashboard{
+    color:white;
+}
+.nav-logo{
+    height: 40px;
+    width: 150px;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.logo{
+    background-image:url("real_logo.svg");
+    height: 16px;
+    width: 74px;
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top:14px;
+    margin-left: 40px;
+}
+.border{
+    border:1px solid transparent;
+}
+.border:hover{
+    border: 1px solid white;
+}
+.nav-wallet{
+    border: 1px solid whitesmoke;
+    width: 155px;
+    height:40px;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+}
+.wallet{
+    margin-left: 10px;
+}
+.nav-dashboard{
+    color:white;
+    
+}
+.side-bar{
+    height:53px;
+    width:100%px;
+    background-color:  #070f2a;
+    margin-top:15px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 25px;
+    border:solid 1px #7d7c7c;
+}
+.select{
+    height:35px ;
+    width: 247px;
+    background-color: #070f2a;
+    color:white;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+.dollar{
+    height:35px;
+    width:139px;
+    color:white;
+    margin-left: 20px;
+
+}
+.change{
+    height: 35px;
+    width:202px;
+    color:white;
+}
+.long{
+    height: 30px;
+    width:300px;
+    border-radius: 10px;
+    display: flex;
+    background-color: black;
+    margin-top: 10px;
+    margin-left: 10px;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+    border:solid 1px #7d7c7c;
+    
+}
+.container{
+    display:flex;
+   
+}
+.side-container{
+    height:600px;
+    width: 350px;
+    background-color: #27335d;
+    margin-top: 15px;
+    margin-left:15px;
+    border-radius: 25px;
+    border:solid 1px #7d7c7c;
+    margin-bottom: 15px;
+}
+.market{
+    height: 30px;
+    width:300px;
+    border-radius: 10px;
+    display: flex;
+    background-color: rgb(74, 74, 90);
+    margin-top: 30px;
+    margin-left: 10px;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+    border:solid 1px #7d7c7c;
+}
+.pay{
+    margin-left: 10px;
+    margin-top: 10px;
+    color:white;
+    
+}
+.pay1{
+    height: 30px;
+    width:300px;
+    border-radius: 10px;
+    display: flex;
+    background-color: rgb(74, 74, 90);
+    border:solid 1px #7d7c7c;
+    margin-left: 10px;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.long1{
+    margin-left: 10px;
+    margin-top: 10px;
+    color:white;
+    display:flex;
+    align-items: center;
+    
+}
+.lev{
+    margin-left: 90px;
+}
+.long{
+    height: 30px;
+    width:300px;
+    border-radius: 10px;
+    display: flex;
+    background-color: rgb(74, 74, 90);
+    
+    margin-left: 10px;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.leverage{
+    color:white;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.router{
+    height: 30px;
+    width:300px;
+    border-radius: 10px;
+    display: flex;
+    background-color: rgb(74, 74, 90);
+    border:solid 1px #7d7c7c;
+    margin-left: 10px;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+
+
+}
+.connect{
+    height: 30px;
+    width:300px;
+    border-radius: 10px;
+    display: flex;
+    background-color: rgb(74, 74, 90);
+    border:solid 1px #7d7c7c;
+    margin-left: 10px;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    
+}
+.chart{
+    height: 600px;
+    width: 1000px;
+    background-image:url("chart.png") ;
+    margin-top: 15px;
+    margin-left: 25px;
+    border-radius: 25px;
+    margin-right:25px;
+
+    
+}
+.dash{
+    color:white;
+}
+.all{
+    background-color: #27335d;
+}

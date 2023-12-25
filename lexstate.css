@@ -1,0 +1,81 @@
+*{
+
+    font-family: "Overpass Mono",sans-serif;
+    letter-spacing:.05rem;
+    font-size: var(--font-base);;
+    align-items: center;
+    background-color: #27335d;
+}
+
+
+
+.nav-bar{
+    height:19px;
+    width:100%;
+    padding: 1.25rem;
+    background-color: #27335d;
+    
+    margin-bottom: 2.325rem;
+    
+    
+  
+}
+.text{
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  
+    
+}
+.select{
+    color: white;
+    background-color: #27335d;
+    height: 65px;
+    width: 2000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.rewards{
+    color: white;
+    background-color: hsl(240, 84%, 80%);
+    height: 65px;
+    width: 2000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+
+}
+.container{
+    height: 600px;
+    width: 1800px;
+    background-color: #27335d;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+
+    
+}
+.container1{
+    height: 600px;
+    width:900px;
+    background-color: #27335d;
+    border: solid 1px white;
+    color:white;
+    border-radius: 20px;
+    margin-right: 20px;
+    
+}
+
+.text1{
+    color:white;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}

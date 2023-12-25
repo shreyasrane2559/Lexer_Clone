@@ -1,0 +1,150 @@
+.side-bar{
+    height:53px;
+    width:900px;
+    background-color: #141c26;
+    margin-top:15px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+.select{
+    height:35px ;
+    width: 247px;
+    background-color: #141c26;
+    color:white;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+.dollar{
+    height:35px;
+    width:139px;
+    color:white;
+    margin-left: 20px;
+
+}
+.change{
+    height: 35px;
+    width:202px;
+    color:white;
+}
+.long{
+    height: 30px;
+    width:300px;
+    border-radius: 10px;
+    display: flex;
+    background-color: black;
+    margin-top: 10px;
+    margin-left: 10px;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.container{
+    display:flex;
+   
+}
+.side-container{
+    height:600px;
+    width: 350px;
+    background-color: blue;
+    margin-top: 15px;
+    border-radius: 25px;
+}
+.market{
+    height: 30px;
+    width:300px;
+    border-radius: 10px;
+    display: flex;
+    background-color: black;
+    margin-top: 10px;
+    margin-left: 10px;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.pay{
+    margin-left: 10px;
+    margin-top: 10px;
+    color:white
+}
+.pay1{
+    height: 30px;
+    width:300px;
+    border-radius: 10px;
+    display: flex;
+    background-color: black;
+    
+    margin-left: 10px;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.long1{
+    margin-left: 10px;
+    margin-top: 10px;
+    color:white;
+    display:flex;
+    align-items: center;
+    
+}
+.lev{
+    margin-left: 90px;
+}
+.long{
+    height: 30px;
+    width:300px;
+    border-radius: 10px;
+    display: flex;
+    background-color: black;
+    
+    margin-left: 10px;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.leverage{
+    color:white;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.router{
+    height: 30px;
+    width:300px;
+    border-radius: 10px;
+    display: flex;
+    background-color: black;
+    
+    margin-left: 10px;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+
+
+}
+.connect{
+    height: 30px;
+    width:300px;
+    border-radius: 10px;
+    display: flex;
+    background-color: black;
+    
+    margin-left: 10px;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    
+}
+.chart{
+    height: 400px;
+    width: 400px;
+    color: #141c26;
+}
+.all{
+    background-color:#27335d;
+}
